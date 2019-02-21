@@ -5,7 +5,7 @@ from time import sleep
 #object for work with SenseHat
 sense = SenseHat()
 
-#Doplň sem komentář
+#Set ISS rotation 
 sense.set_rotation(270)
 
 #Infinite loop (the cycle repeats itself)
